@@ -36,3 +36,7 @@ int main()
  
         return 0;
 }
+
+//OUTPUT
+//ENTER BINARY NUMBER: 1100
+//INCREMENTED NUMBER : 1101
