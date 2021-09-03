@@ -43,3 +43,8 @@ int main()
  
         return 0;
 }
+
+//OUTPUT
+//ENTER BINARY NUMBER: 111001
+//TWOS COMPLEMENT: 000111
+
